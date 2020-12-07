@@ -5,6 +5,10 @@
   "private": true,
   "dependencies": {
     "@harmony-js/core": "^0.1.55",
+    "@web3-react/core": "latest",
+    "@harmony-react/mathwallet-connector": "latest",
+    "@harmony-react/onewallet-connector": "latest",
+    "@harmony-utils/wrappers": "latest",
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.56",
